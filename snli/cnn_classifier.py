@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# this is for the test
 import tensorflow as tf
 
 class cnn_clf(object):
